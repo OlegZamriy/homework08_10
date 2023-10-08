@@ -12,7 +12,7 @@ from flet import (
 
 
 def main(page: Page):
-    page.title = "Calculator App"
+    page.title = "Calculator Appp"
     result = Text(value="0", color=colors.WHITE, size=20)
 
     page.add(
