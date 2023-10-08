@@ -17,7 +17,7 @@ def main(page: Page):
 
     page.add(
         Container(
-            width=300,
+            width=400,
             bgcolor='#C39FCC',
             border_radius=border_radius.all(10),
             padding=20,
